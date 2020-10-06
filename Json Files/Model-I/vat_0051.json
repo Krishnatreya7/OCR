@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0051.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1430,
+					"ymin": 77,
+					"xmax": 1617,
+					"ymax": 118,
+					"score": 1,
+					"ocr_text": "34861239"
+				},
+				{
+					"label": "Date",
+					"xmin": 1578,
+					"ymin": 178,
+					"xmax": 1800,
+					"ymax": 219,
+					"score": 1,
+					"ocr_text": "2017 年 05 月 02 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 427,
+					"ymin": 247,
+					"xmax": 749,
+					"ymax": 288,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1556,
+					"ymin": 825,
+					"xmax": 1684,
+					"ymax": 863,
+					"score": 1,
+					"ocr_text": "400.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 430,
+					"ymin": 895,
+					"xmax": 1011,
+					"ymax": 932,
+					"score": 1,
+					"ocr_text": "中国 航空 集 能 团 旅 业 有限公司 上海 中 航 泊 悦 酒店"
+				}
+			],
+			"page": 0,
+			"request_file_id": "17151e41-d013-4639-a599-30e57e0d0752",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1664931844.jpeg",
+			"id": "1fb215d3-0702-11eb-bddf-4a47d710959c"
+		}
+	]
+}

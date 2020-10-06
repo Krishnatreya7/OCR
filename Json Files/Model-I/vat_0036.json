@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0036.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1442,
+					"ymin": 142,
+					"xmax": 1630,
+					"ymax": 184,
+					"score": 1,
+					"ocr_text": "07606242"
+				},
+				{
+					"label": "Date",
+					"xmin": 1583,
+					"ymin": 249,
+					"xmax": 1797,
+					"ymax": 287,
+					"score": 1,
+					"ocr_text": "2017 年 05 月 11 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 432,
+					"ymin": 323,
+					"xmax": 751,
+					"ymax": 359,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1554,
+					"ymin": 893,
+					"xmax": 1718,
+					"ymax": 930,
+					"score": 1,
+					"ocr_text": "37200.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 448,
+					"ymin": 956,
+					"xmax": 775,
+					"ymax": 992,
+					"score": 1,
+					"ocr_text": "苏州 钧 和 伺服 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "d3690259-e6d0-4077-a554-a75b79392330",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1791732443.jpeg",
+			"id": "8fdcd7aa-0703-11eb-b455-4e20d202269b"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0011.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1420,
+					"ymin": 105,
+					"xmax": 1676,
+					"ymax": 149,
+					"score": 0.9999999,
+					"ocr_text": "09750785"
+				},
+				{
+					"label": "Date",
+					"xmin": 1563,
+					"ymin": 217,
+					"xmax": 1795,
+					"ymax": 253,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 18 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 397,
+					"ymin": 305,
+					"xmax": 704,
+					"ymax": 339,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1509,
+					"ymin": 885,
+					"xmax": 1717,
+					"ymax": 912,
+					"score": 0.994392,
+					"ocr_text": "¥21043.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 392,
+					"ymin": 952,
+					"xmax": 800,
+					"ymax": 987,
+					"score": 1,
+					"ocr_text": "佳作 天成 ( 北京 ) 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "7d6078a6-a102-4fe7-bfdd-51ac6e46e8d0",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/639019192.jpeg",
+			"id": "1e2f7a0b-0704-11eb-8a4f-1ac2a5e2e4de"
+		}
+	]
+}

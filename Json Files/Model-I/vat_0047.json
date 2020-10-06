@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0047.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1470,
+					"ymin": 120,
+					"xmax": 1649,
+					"ymax": 168,
+					"score": 1,
+					"ocr_text": "08381904"
+				},
+				{
+					"label": "Date",
+					"xmin": 1601,
+					"ymin": 225,
+					"xmax": 1822,
+					"ymax": 265,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 18 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 467,
+					"ymin": 283,
+					"xmax": 628,
+					"ymax": 318,
+					"score": 1,
+					"ocr_text": "复杂 - 肖柏华"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1584,
+					"ymin": 867,
+					"xmax": 1703,
+					"ymax": 891,
+					"score": 1,
+					"ocr_text": "300.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 467,
+					"ymin": 926,
+					"xmax": 866,
+					"ymax": 961,
+					"score": 1,
+					"ocr_text": "北京 中 自 百佳 技术 服务 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "27f7113e-a1cf-4752-9bfa-bdfc6cd030a3",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/850096280.jpeg",
+			"id": "b6f6f816-0702-11eb-be71-4a47d710959c"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0005.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1449,
+					"ymin": 107,
+					"xmax": 1636,
+					"ymax": 151,
+					"score": 1,
+					"ocr_text": "29139443"
+				},
+				{
+					"label": "Date",
+					"xmin": 1590,
+					"ymin": 207,
+					"xmax": 1796,
+					"ymax": 243,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 07 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 465,
+					"ymin": 273,
+					"xmax": 773,
+					"ymax": 310,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1554,
+					"ymin": 832,
+					"xmax": 1697,
+					"ymax": 869,
+					"score": 1,
+					"ocr_text": "4050.11"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 462,
+					"ymin": 892,
+					"xmax": 713,
+					"ymax": 926,
+					"score": 1,
+					"ocr_text": "阿星云 计算 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "f45ea161-211d-484c-83ed-ccaf29202309",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/2056442250.jpeg",
+			"id": "55541c62-0704-11eb-8a88-1ac2a5e2e4de"
+		}
+	]
+}

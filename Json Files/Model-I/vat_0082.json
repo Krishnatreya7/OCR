@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0082.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1450,
+					"ymin": 109,
+					"xmax": 1629,
+					"ymax": 147,
+					"score": 1,
+					"ocr_text": "47910297"
+				},
+				{
+					"label": "Date",
+					"xmin": 1595,
+					"ymin": 194,
+					"xmax": 1809,
+					"ymax": 228,
+					"score": 1,
+					"ocr_text": "2017 年 05 月 16 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 504,
+					"ymin": 274,
+					"xmax": 800,
+					"ymax": 305,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1601,
+					"ymin": 808,
+					"xmax": 1766,
+					"ymax": 842,
+					"score": 1,
+					"ocr_text": "13700.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 485,
+					"ymin": 882,
+					"xmax": 853,
+					"ymax": 921,
+					"score": 1,
+					"ocr_text": "北京 易 时 杰 科技 发展 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "a31bf590-8732-46ce-95b6-f84bee6c9abc",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/855471126.jpeg",
+			"id": "5bd8b739-06fd-11eb-ba89-4a47d710959c"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0030.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1418,
+					"ymin": 65,
+					"xmax": 1611,
+					"ymax": 116,
+					"score": 1,
+					"ocr_text": "52694385"
+				},
+				{
+					"label": "Date",
+					"xmin": 1567,
+					"ymin": 177,
+					"xmax": 1787,
+					"ymax": 212,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 30 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 420,
+					"ymin": 268,
+					"xmax": 476,
+					"ymax": 299,
+					"score": 1,
+					"ocr_text": "个人"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1550,
+					"ymin": 830,
+					"xmax": 1653,
+					"ymax": 855,
+					"score": 1,
+					"ocr_text": "95.50"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 412,
+					"ymin": 896,
+					"xmax": 904,
+					"ymax": 934,
+					"score": 1,
+					"ocr_text": "上海 易 果 电子商务 有限公司 北京 分公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "39e55761-c88a-4946-95bd-193b9f188735",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/449569333.jpeg",
+			"id": "ad0f08ed-0703-11eb-bf63-4a47d710959c"
+		}
+	]
+}

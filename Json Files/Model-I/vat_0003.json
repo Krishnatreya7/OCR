@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0003.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1481,
+					"ymin": 172,
+					"xmax": 1677,
+					"ymax": 220,
+					"score": 1,
+					"ocr_text": "04592937"
+				},
+				{
+					"label": "Date",
+					"xmin": 1635,
+					"ymin": 282,
+					"xmax": 1867,
+					"ymax": 319,
+					"score": 0.9999819,
+					"ocr_text": "2017 年 03 月 o3日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 446,
+					"ymin": 360,
+					"xmax": 764,
+					"ymax": 394,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1600,
+					"ymin": 955,
+					"xmax": 1752,
+					"ymax": 982,
+					"score": 1,
+					"ocr_text": "1999.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 442,
+					"ymin": 1013,
+					"xmax": 731,
+					"ymax": 1047,
+					"score": 1,
+					"ocr_text": "科 大 讯 飞 股份有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "c9367549-63c7-4cf0-a6a2-b7403334a472",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/56188784.jpeg",
+			"id": "6774586d-0704-11eb-8a8c-1ac2a5e2e4de"
+		}
+	]
+}

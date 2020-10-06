@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0040.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1486,
+					"ymin": 117,
+					"xmax": 1675,
+					"ymax": 160,
+					"score": 1,
+					"ocr_text": "29139443"
+				},
+				{
+					"label": "Date",
+					"xmin": 1618,
+					"ymin": 220,
+					"xmax": 1843,
+					"ymax": 258,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 07 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 478,
+					"ymin": 285,
+					"xmax": 785,
+					"ymax": 322,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究 究 所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1592,
+					"ymin": 875,
+					"xmax": 1739,
+					"ymax": 910,
+					"score": 1,
+					"ocr_text": "4050.11"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 458,
+					"ymin": 921,
+					"xmax": 710,
+					"ymax": 958,
+					"score": 1,
+					"ocr_text": "阿里 云 计算 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "80753071-fd1a-4af5-9309-d2ba82195e9d",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/444913836.jpeg",
+			"id": "6db3f926-0703-11eb-bf33-4a47d710959c"
+		}
+	]
+}

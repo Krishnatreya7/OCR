@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0077.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1431,
+					"ymin": 104,
+					"xmax": 1615,
+					"ymax": 150,
+					"score": 1,
+					"ocr_text": "09280798"
+				},
+				{
+					"label": "Date",
+					"xmin": 1568,
+					"ymin": 201,
+					"xmax": 1794,
+					"ymax": 240,
+					"score": 1,
+					"ocr_text": "2017 年 05 月 15 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 470,
+					"ymin": 275,
+					"xmax": 772,
+					"ymax": 309,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1568,
+					"ymin": 842,
+					"xmax": 1734,
+					"ymax": 863,
+					"score": 1,
+					"ocr_text": "49880.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 450,
+					"ymin": 901,
+					"xmax": 793,
+					"ymax": 936,
+					"score": 1,
+					"ocr_text": "北京 思 腾 合力 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "ce4dbc49-e123-41f7-94b2-bcbe6d39ce72",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1141828281.jpeg",
+			"id": "8ab079f1-06fd-11eb-8518-1ac2a5e2e4de"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0001.jpg",
+			"prediction": [
+				{
+					"label": "Date",
+					"xmin": 1628,
+					"ymin": 179,
+					"xmax": 1840,
+					"ymax": 214,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 18 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 467,
+					"ymin": 232,
+					"xmax": 778,
+					"ymax": 267,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1607,
+					"ymin": 830,
+					"xmax": 1780,
+					"ymax": 866,
+					"score": 1,
+					"ocr_text": "38266.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 411,
+					"ymin": 873,
+					"xmax": 841,
+					"ymax": 917,
+					"score": 1,
+					"ocr_text": "佳作 天成 ( 北京 ) 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "c55ebe57-58f1-4e25-b16d-ff4827e65969",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/2131820816.jpeg",
+			"id": "77a0f9aa-0704-11eb-a279-863496a94c1b"
+		}
+	]
+}

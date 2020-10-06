@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0004.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1420,
+					"ymin": 111,
+					"xmax": 1597,
+					"ymax": 158,
+					"score": 1,
+					"ocr_text": "12356976"
+				},
+				{
+					"label": "Date",
+					"xmin": 1572,
+					"ymin": 198,
+					"xmax": 1772,
+					"ymax": 234,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 25 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 514,
+					"ymin": 292,
+					"xmax": 796,
+					"ymax": 324,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1581,
+					"ymin": 800,
+					"xmax": 1697,
+					"ymax": 827,
+					"score": 1,
+					"ocr_text": "600.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 506,
+					"ymin": 886,
+					"xmax": 783,
+					"ymax": 919,
+					"score": 1,
+					"ocr_text": "北京 科学 技术 期刊 学会"
+				}
+			],
+			"page": 0,
+			"request_file_id": "8fbc6b17-c1b8-4be8-912e-99b09f3a4247",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/2092290224.jpeg",
+			"id": "5e442471-0704-11eb-a264-863496a94c1b"
+		}
+	]
+}

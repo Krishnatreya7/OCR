@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0052.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1362,
+					"ymin": 146,
+					"xmax": 1527,
+					"ymax": 185,
+					"score": 1,
+					"ocr_text": "47022048"
+				},
+				{
+					"label": "Date",
+					"xmin": 1482,
+					"ymin": 242,
+					"xmax": 1679,
+					"ymax": 273,
+					"score": 1,
+					"ocr_text": "2016 年 11 月 28 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 499,
+					"ymin": 315,
+					"xmax": 750,
+					"ymax": 346,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1440,
+					"ymin": 806,
+					"xmax": 1544,
+					"ymax": 835,
+					"score": 0.9999982,
+					"ocr_text": "140.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 508,
+					"ymin": 860,
+					"xmax": 756,
+					"ymax": 891,
+					"score": 1,
+					"ocr_text": "北京 恒 鸿 睿 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "519d2851-72d3-4c2b-ae47-ce2c7015d08b",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/2055278616.jpeg",
+			"id": "01c3b3f4-0702-11eb-a04c-863496a94c1b"
+		}
+	]
+}

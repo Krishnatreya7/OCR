@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0031.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1460,
+					"ymin": 156,
+					"xmax": 1644,
+					"ymax": 211,
+					"score": 1,
+					"ocr_text": "03159334"
+				},
+				{
+					"label": "Date",
+					"xmin": 1589,
+					"ymin": 260,
+					"xmax": 1796,
+					"ymax": 299,
+					"score": 1,
+					"ocr_text": "2017 年 03 月 16 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 446,
+					"ymin": 280,
+					"xmax": 765,
+					"ymax": 325,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1554,
+					"ymin": 896,
+					"xmax": 1674,
+					"ymax": 921,
+					"score": 1,
+					"ocr_text": "500.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 417,
+					"ymin": 933,
+					"xmax": 768,
+					"ymax": 975,
+					"score": 1,
+					"ocr_text": "北京 字音 天下 科技 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "fa2b47a7-408d-491c-a2d6-2557c9b8e1d3",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1252244611.jpeg",
+			"id": "a1f26ae9-0703-11eb-bf57-4a47d710959c"
+		}
+	]
+}

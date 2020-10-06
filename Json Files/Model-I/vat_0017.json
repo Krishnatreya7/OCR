@@ -1,0 +1,51 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0017.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1479,
+					"ymin": 83,
+					"xmax": 1669,
+					"ymax": 130,
+					"score": 1,
+					"ocr_text": "79189932"
+				},
+				{
+					"label": "Date",
+					"xmin": 1695,
+					"ymin": 223,
+					"xmax": 1929,
+					"ymax": 258,
+					"score": 1,
+					"ocr_text": "2016 年 12 月 25 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 529,
+					"ymin": 295,
+					"xmax": 838,
+					"ymax": 330,
+					"score": 0.99999905,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 511,
+					"ymin": 945,
+					"xmax": 948,
+					"ymax": 977,
+					"score": 0.9953692,
+					"ocr_text": "海 鸿达 ( 北京 ) 餐饮 管理 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "2d706162-f082-45c4-9264-7fd1ca43c6f8",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1972270940.jpeg",
+			"id": "ec215028-0703-11eb-bf88-4a47d710959c"
+		}
+	]
+}

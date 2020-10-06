@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0014.jpg",
+			"prediction": [
+				{
+					"label": "Invoice_Number",
+					"xmin": 1494,
+					"ymin": 106,
+					"xmax": 1740,
+					"ymax": 161,
+					"score": 1,
+					"ocr_text": "13638082"
+				},
+				{
+					"label": "Date",
+					"xmin": 1637,
+					"ymin": 202,
+					"xmax": 1854,
+					"ymax": 240,
+					"score": 1,
+					"ocr_text": "2017 年 04 月 20 日"
+				},
+				{
+					"label": "Buyer_Name",
+					"xmin": 514,
+					"ymin": 251,
+					"xmax": 819,
+					"ymax": 288,
+					"score": 1,
+					"ocr_text": "中国科学院 自动化 研究所"
+				},
+				{
+					"label": "Total_Amount",
+					"xmin": 1619,
+					"ymin": 834,
+					"xmax": 1788,
+					"ymax": 872,
+					"score": 1,
+					"ocr_text": "24552.00"
+				},
+				{
+					"label": "Seller_Name",
+					"xmin": 481,
+					"ymin": 883,
+					"xmax": 947,
+					"ymax": 919,
+					"score": 1,
+					"ocr_text": "福尔哈贝 传动 技术 ( 太 合 ) 有限公司"
+				}
+			],
+			"page": 0,
+			"request_file_id": "bc24ff8d-a3a6-4e58-9cac-f19059903106",
+			"filepath": "uploadedfiles/e21cc6d7-40aa-4f00-8213-5d47dea606a6/PredictionImages/1459123915.jpeg",
+			"id": "09fcc4e6-0704-11eb-bf9a-4a47d710959c"
+		}
+	]
+}
