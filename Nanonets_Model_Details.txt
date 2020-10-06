@@ -1,0 +1,25 @@
+Nanonets Model - I Labels
+	Invoice_Number
+	Date
+	Buyer_Name
+	Total_Amount
+	Seller_Name
+Programming names
+	invoice_no
+	buyer_name
+	date_strip
+	seller_name
+	amt_digits
+--------------------------------
+Nanonets Model - II Labels
+	Seller_Bank_Name
+	Seller_Vat_No
+	Seller_Address
+	Seller_Mobile_No
+	Seller_bank_Account
+Programming names
+	seller_bank_name
+	seller_vat_no
+	seller_address
+	seller_mobile_no
+	seller_bank_acc
