@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0030.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Address",
+					"xmin": 421,
+					"ymin": 984,
+					"xmax": 975,
+					"ymax": 1016,
+					"score": 1,
+					"ocr_text": "北京市 丰台 区 南 三环 西路 16 号 3 号楼 25 层 2911 是"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 995,
+					"ymin": 987,
+					"xmax": 1105,
+					"ymax": 1004,
+					"score": 1,
+					"ocr_text": "80251067"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 395,
+					"ymin": 1027,
+					"xmax": 816,
+					"ymax": 1059,
+					"score": 1,
+					"ocr_text": "上海 浦东 发展 银行 北京 菜户营 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 836,
+					"ymin": 1029,
+					"xmax": 1077,
+					"ymax": 1051,
+					"score": 1,
+					"ocr_text": "91270154700005791"
+				},
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 461,
+					"ymin": 945,
+					"xmax": 902,
+					"ymax": 973,
+					"score": 1,
+					"ocr_text": "911101066705914956"
+				}
+			],
+			"page": 0,
+			"request_file_id": "a43026f1-62f5-44c5-9019-cb4fe2f568d6",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1032304991.jpeg",
+			"id": "9778d1d4-0715-11eb-bc56-863496a94c1b"
+		}
+	]
+}

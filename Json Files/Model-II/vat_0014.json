@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0014.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Address",
+					"xmin": 441,
+					"ymin": 970,
+					"xmax": 896,
+					"ymax": 1007,
+					"score": 1,
+					"ocr_text": "太仓 市 经济 开发区 北京 西路 6 号"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 910,
+					"ymin": 980,
+					"xmax": 1116,
+					"ymax": 1004,
+					"score": 1,
+					"ocr_text": "0512-53372626"
+				},
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 520,
+					"ymin": 932,
+					"xmax": 977,
+					"ymax": 962,
+					"score": 1,
+					"ocr_text": "91320585554626259G"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 469,
+					"ymin": 1021,
+					"xmax": 856,
+					"ymax": 1048,
+					"score": 1,
+					"ocr_text": "中国 建设银行 股份有限公司 太仓 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 880,
+					"ymin": 1028,
+					"xmax": 1140,
+					"ymax": 1047,
+					"score": 1,
+					"ocr_text": "32201997336051511825"
+				}
+			],
+			"page": 0,
+			"request_file_id": "9cb8fc7c-0e38-479c-9edb-62f8df980b0a",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/542055952.jpeg",
+			"id": "df20eebc-0715-11eb-9932-4a47d710959c"
+		}
+	]
+}

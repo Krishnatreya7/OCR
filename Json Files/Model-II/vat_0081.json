@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0081.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Address",
+					"xmin": 486,
+					"ymin": 962,
+					"xmax": 919,
+					"ymax": 1000,
+					"score": 0.9999999,
+					"ocr_text": "北京市 海淀 区 清河 三 街 72 号 2 号楼 1 层 119 室"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 934,
+					"ymin": 974,
+					"xmax": 1078,
+					"ymax": 1004,
+					"score": 0.99999833,
+					"ocr_text": "010-62 986600"
+				},
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 529,
+					"ymin": 928,
+					"xmax": 881,
+					"ymax": 958,
+					"score": 1,
+					"ocr_text": "110108689226244"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 479,
+					"ymin": 1006,
+					"xmax": 895,
+					"ymax": 1038,
+					"score": 1,
+					"ocr_text": "中国 民生 银行 股份有限公司 北京 上 地 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 926,
+					"ymin": 1020,
+					"xmax": 1124,
+					"ymax": 1038,
+					"score": 1,
+					"ocr_text": "0110014170032555"
+				}
+			],
+			"page": 0,
+			"request_file_id": "771dc258-2cbc-4cb5-8d06-e64ab81f90d9",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/394490473.jpeg",
+			"id": "5004a452-0714-11eb-a3b9-1ac2a5e2e4de"
+		}
+	]
+}

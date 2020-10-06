@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0047.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 505,
+					"ymin": 968,
+					"xmax": 877,
+					"ymax": 1000,
+					"score": 1,
+					"ocr_text": "110108747541796"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 462,
+					"ymin": 1012,
+					"xmax": 996,
+					"ymax": 1044,
+					"score": 1,
+					"ocr_text": "北京市 海 夜 区 中关村 东路 95 号 8 号 榜 4 层 425-28 房 间"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 998,
+					"ymin": 1012,
+					"xmax": 1112,
+					"ymax": 1044,
+					"score": 1,
+					"ocr_text": "62565 174"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 462,
+					"ymin": 1053,
+					"xmax": 759,
+					"ymax": 1088,
+					"score": 1,
+					"ocr_text": "北京 卖 行 科院 南路 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 768,
+					"ymin": 1056,
+					"xmax": 1057,
+					"ymax": 1088,
+					"score": 1,
+					"ocr_text": "11-250101040007331"
+				}
+			],
+			"page": 0,
+			"request_file_id": "e373aad5-f286-46e0-8ec4-3550340593f3",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1818201265.jpeg",
+			"id": "25647e52-0715-11eb-8d51-4e20d202269b"
+		}
+	]
+}

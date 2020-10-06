@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0082.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 523,
+					"ymin": 928,
+					"xmax": 892,
+					"ymax": 962,
+					"score": 1,
+					"ocr_text": "110108802125710"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 479,
+					"ymin": 971,
+					"xmax": 997,
+					"ymax": 1001,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 中关村 甲 331 号 怡 升 園 商务 公寓 A 座 3-302 号"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 1013,
+					"ymin": 975,
+					"xmax": 1102,
+					"ymax": 990,
+					"score": 0.9999998,
+					"ocr_text": "62628 989"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 479,
+					"ymin": 1014,
+					"xmax": 730,
+					"ymax": 1048,
+					"score": 1,
+					"ocr_text": "工 行 海淀 支行 营业"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 751,
+					"ymin": 1013,
+					"xmax": 1037,
+					"ymax": 1040,
+					"score": 1,
+					"ocr_text": "020004960920004822"
+				}
+			],
+			"page": 0,
+			"request_file_id": "adbe1058-c8cb-4526-9aee-077a87043b9a",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1858206720.jpeg",
+			"id": "45e8e07c-0714-11eb-a3a1-1ac2a5e2e4de"
+		}
+	]
+}

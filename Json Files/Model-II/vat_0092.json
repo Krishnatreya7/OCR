@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0092.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 533,
+					"ymin": 1007,
+					"xmax": 990,
+					"ymax": 1033,
+					"score": 1,
+					"ocr_text": "911101085977288535"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 492,
+					"ymin": 1048,
+					"xmax": 1039,
+					"ymax": 1080,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 上 地 六街 17 号 1 幢 1 层 6106A"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 1056,
+					"ymin": 1054,
+					"xmax": 1180,
+					"ymax": 1074,
+					"score": 1,
+					"ocr_text": "62419145"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 485,
+					"ymin": 1094,
+					"xmax": 929,
+					"ymax": 1119,
+					"score": 1,
+					"ocr_text": "上海 浦东 发展 銀行 股份有限公司 北京 海淀园 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 955,
+					"ymin": 1101,
+					"xmax": 1161,
+					"ymax": 1115,
+					"score": 1,
+					"ocr_text": "91130154700009687"
+				}
+			],
+			"page": 0,
+			"request_file_id": "f0862d89-e102-4504-878a-8c42a7408a75",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1696876612.jpeg",
+			"id": "17897bd1-0714-11eb-a36c-1ac2a5e2e4de"
+		}
+	]
+}

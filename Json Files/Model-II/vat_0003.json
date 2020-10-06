@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0003.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 485,
+					"ymin": 1061,
+					"xmax": 944,
+					"ymax": 1087,
+					"score": 1,
+					"ocr_text": "91340000711771143J"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 416,
+					"ymin": 1099,
+					"xmax": 894,
+					"ymax": 1133,
+					"score": 1,
+					"ocr_text": "合肥市 高新 开发区 望江 西路 666 号"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 908,
+					"ymin": 1103,
+					"xmax": 1116,
+					"ymax": 1134,
+					"score": 1,
+					"ocr_text": "0551-65331511"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 442,
+					"ymin": 1145,
+					"xmax": 796,
+					"ymax": 1175,
+					"score": 1,
+					"ocr_text": "交通银行 合肥 分行 高新 区 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 817,
+					"ymin": 1145,
+					"xmax": 1125,
+					"ymax": 1175,
+					"score": 1,
+					"ocr_text": "341313000010141000483"
+				}
+			],
+			"page": 0,
+			"request_file_id": "587fd156-073f-455e-9c9f-5c0f79200e5d",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/170194868.jpeg",
+			"id": "328bb9ed-0716-11eb-a629-1ac2a5e2e4de"
+		}
+	]
+}

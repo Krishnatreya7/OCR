@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0069.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 486,
+					"ymin": 949,
+					"xmax": 927,
+					"ymax": 981,
+					"score": 1,
+					"ocr_text": "91310000063798806C"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 447,
+					"ymin": 987,
+					"xmax": 988,
+					"ymax": 1019,
+					"score": 1,
+					"ocr_text": "上海市 长宁 区 虹桥 机场 T2 航站楼 申 达 三 路 181 号"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 1008,
+					"ymin": 992,
+					"xmax": 1120,
+					"ymax": 1019,
+					"score": 1,
+					"ocr_text": "22366666"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 457,
+					"ymin": 1029,
+					"xmax": 688,
+					"ymax": 1060,
+					"score": 1,
+					"ocr_text": "工 行 虹桥 机场 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 690,
+					"ymin": 1029,
+					"xmax": 981,
+					"ymax": 1060,
+					"score": 1,
+					"ocr_text": "1001229419006771816"
+				}
+			],
+			"page": 0,
+			"request_file_id": "5c509f69-5d03-4da8-aa45-ff4ada5bd76a",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/632455811.jpeg",
+			"id": "7d68924a-0714-11eb-bb01-863496a94c1b"
+		}
+	]
+}

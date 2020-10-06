@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0049.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 481,
+					"ymin": 964,
+					"xmax": 915,
+					"ymax": 991,
+					"score": 1,
+					"ocr_text": "91320509608199310W"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 441,
+					"ymin": 1001,
+					"xmax": 881,
+					"ymax": 1032,
+					"score": 0.9999996,
+					"ocr_text": "江苏 省 吴江 经济 开发区 江兴东 路 1128 号"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 439,
+					"ymin": 1044,
+					"xmax": 703,
+					"ymax": 1074,
+					"score": 1,
+					"ocr_text": "建 行 苏州 高新 区 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 705,
+					"ymin": 1044,
+					"xmax": 1026,
+					"ymax": 1074,
+					"score": 1,
+					"ocr_text": "3220198863605 1505076"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 917,
+					"ymin": 1009,
+					"xmax": 1094,
+					"ymax": 1025,
+					"score": 1,
+					"ocr_text": "0512-82079757"
+				}
+			],
+			"page": 0,
+			"request_file_id": "0b65f4db-6fa7-40fa-839b-ee68f961d70e",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/439002399.jpeg",
+			"id": "1b7c0149-0715-11eb-a4c6-1ac2a5e2e4de"
+		}
+	]
+}

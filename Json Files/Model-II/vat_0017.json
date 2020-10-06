@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0017.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 553,
+					"ymin": 992,
+					"xmax": 1003,
+					"ymax": 1022,
+					"score": 1,
+					"ocr_text": "911103025695414934"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 513,
+					"ymin": 1036,
+					"xmax": 1037,
+					"ymax": 1066,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 北 三环 西路 大钟寺 中 坤 广场 E 座 五楼"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 1039,
+					"ymin": 1041,
+					"xmax": 1195,
+					"ymax": 1068,
+					"score": 0.9999991,
+					"ocr_text": "0106213351 チ"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 506,
+					"ymin": 1067,
+					"xmax": 866,
+					"ymax": 1115,
+					"score": 1,
+					"ocr_text": "中国 银行 北京 中 银 大 護 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 867,
+					"ymin": 1080,
+					"xmax": 1058,
+					"ymax": 1123,
+					"score": 1,
+					"ocr_text": "34025669685"
+				}
+			],
+			"page": 0,
+			"request_file_id": "a7c021d0-0d5c-410f-928a-89780329e6dc",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/633207576.jpeg",
+			"id": "c5abf0b7-0715-11eb-8e24-4e20d202269b"
+		}
+	]
+}

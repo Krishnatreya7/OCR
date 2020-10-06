@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0063.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 510,
+					"ymin": 1038,
+					"xmax": 978,
+					"ymax": 1068,
+					"score": 1,
+					"ocr_text": "911101085977288535"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 468,
+					"ymin": 1082,
+					"xmax": 1023,
+					"ymax": 1117,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 上 地 六街 17 号 1 幢 1 层 6106A"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 1045,
+					"ymin": 1085,
+					"xmax": 1172,
+					"ymax": 1106,
+					"score": 1,
+					"ocr_text": "62419145"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 467,
+					"ymin": 1128,
+					"xmax": 919,
+					"ymax": 1155,
+					"score": 1,
+					"ocr_text": "上海 浦东 发 膠 銀行 股份有限公司 北京 海淀园 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 945,
+					"ymin": 1132,
+					"xmax": 1153,
+					"ymax": 1149,
+					"score": 1,
+					"ocr_text": "91130154700009687"
+				}
+			],
+			"page": 0,
+			"request_file_id": "31acaa3c-4cd9-4671-98b4-7ea254bb12b7",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/675004252.jpeg",
+			"id": "a827f9b1-0714-11eb-97c3-4a47d710959c"
+		}
+	]
+}

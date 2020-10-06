@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0042.jpg",
+			"prediction": [
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 435,
+					"ymin": 1011,
+					"xmax": 689,
+					"ymax": 1045,
+					"score": 1,
+					"ocr_text": "11-250101040012109"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 691,
+					"ymin": 1011,
+					"xmax": 912,
+					"ymax": 1043,
+					"score": 1,
+					"ocr_text": "农行 科院 南路 支行"
+				},
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 481,
+					"ymin": 933,
+					"xmax": 814,
+					"ymax": 966,
+					"score": 1,
+					"ocr_text": "110108400010945"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 437,
+					"ymin": 980,
+					"xmax": 621,
+					"ymax": 1011,
+					"score": 1,
+					"ocr_text": "中关村 东路 95 号"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 632,
+					"ymin": 982,
+					"xmax": 743,
+					"ymax": 1005,
+					"score": 0.99999994,
+					"ocr_text": "825 44475"
+				}
+			],
+			"page": 0,
+			"request_file_id": "d315c127-f885-4ff3-aa18-d2c8533a9904",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1564268520.jpeg",
+			"id": "55137e51-0715-11eb-8d85-4e20d202269b"
+		}
+	]
+}

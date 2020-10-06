@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0001.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 467,
+					"ymin": 928,
+					"xmax": 855,
+					"ymax": 958,
+					"score": 1,
+					"ocr_text": "110116699572706"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 421,
+					"ymin": 968,
+					"xmax": 851,
+					"ymax": 1008,
+					"score": 1,
+					"ocr_text": "北京市 怀柔 区 怀 北 镇西 庄村 308"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 899,
+					"ymin": 980,
+					"xmax": 1097,
+					"ymax": 1004,
+					"score": 1,
+					"ocr_text": "010-82698068"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 417,
+					"ymin": 1013,
+					"xmax": 776,
+					"ymax": 1049,
+					"score": 1,
+					"ocr_text": "北京 农村 商业 银行 科技 园 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 778,
+					"ymin": 1018,
+					"xmax": 1076,
+					"ymax": 1053,
+					"score": 1,
+					"ocr_text": "0419000103000000416"
+				}
+			],
+			"page": 0,
+			"request_file_id": "819b2982-ecbb-43b3-ab7a-f82781b3274a",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1854500433.jpeg",
+			"id": "4989a071-0716-11eb-a649-1ac2a5e2e4de"
+		}
+	]
+}

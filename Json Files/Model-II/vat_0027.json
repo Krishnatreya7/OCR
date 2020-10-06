@@ -1,0 +1,69 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0027.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 508,
+					"ymin": 968,
+					"xmax": 888,
+					"ymax": 992,
+					"score": 1,
+					"ocr_text": "91110108MA0022L4XP"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 459,
+					"ymin": 1006,
+					"xmax": 843,
+					"ymax": 1038,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 中关村 333 号楼 一层"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 851,
+					"ymin": 1012,
+					"xmax": 953,
+					"ymax": 1031,
+					"score": 1,
+					"ocr_text": "8262553 1"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 452,
+					"ymin": 1041,
+					"xmax": 784,
+					"ymax": 1076,
+					"score": 0.99999857,
+					"ocr_text": "中国 民生 银行 股份有限公司"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 786,
+					"ymin": 1041,
+					"xmax": 965,
+					"ymax": 1075,
+					"score": 1,
+					"ocr_text": "北京 和平 里 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 967,
+					"ymin": 1040,
+					"xmax": 1073,
+					"ymax": 1074,
+					"score": 1,
+					"ocr_text": "69617870"
+				}
+			],
+			"page": 0,
+			"request_file_id": "fa030596-7f51-40dd-bde5-fd60148b2266",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1419524600.jpeg",
+			"id": "9f90b24a-0715-11eb-bc6a-863496a94c1b"
+		}
+	]
+}

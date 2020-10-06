@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0005.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 501,
+					"ymin": 939,
+					"xmax": 933,
+					"ymax": 964,
+					"score": 1,
+					"ocr_text": "91330106673959654P"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 459,
+					"ymin": 974,
+					"xmax": 861,
+					"ymax": 1007,
+					"score": 1,
+					"ocr_text": "杭州市 转 塘 科技 经济 区块 16 号 8"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 903,
+					"ymin": 980,
+					"xmax": 1101,
+					"ymax": 1001,
+					"score": 1,
+					"ocr_text": "0571-85022088"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 435,
+					"ymin": 1018,
+					"xmax": 746,
+					"ymax": 1050,
+					"score": 1,
+					"ocr_text": "招商 银行 杭州 高新 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 799,
+					"ymin": 1022,
+					"xmax": 1029,
+					"ymax": 1041,
+					"score": 1,
+					"ocr_text": "571905493610702"
+				}
+			],
+			"page": 0,
+			"request_file_id": "efa5aa39-fdca-4a5a-8e60-29e84fd2ef14",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/1205837566.jpeg",
+			"id": "20f10afb-0716-11eb-8e80-4e20d202269b"
+		}
+	]
+}

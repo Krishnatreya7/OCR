@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_test/vat_0085.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 459,
+					"ymin": 928,
+					"xmax": 833,
+					"ymax": 971,
+					"score": 1,
+					"ocr_text": "110108747541796"
+				},
+				{
+					"label": "Seller_Address",
+					"xmin": 407,
+					"ymin": 972,
+					"xmax": 954,
+					"ymax": 1012,
+					"score": 1,
+					"ocr_text": "北京市 海淀 区 中关村 东路 95 号 8 号 號 4 层 425-20 房间"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 981,
+					"ymin": 972,
+					"xmax": 1041,
+					"ymax": 1003,
+					"score": 0.99997807,
+					"ocr_text": "北"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 422,
+					"ymin": 1018,
+					"xmax": 720,
+					"ymax": 1055,
+					"score": 1,
+					"ocr_text": "北京 农行 科院 南路 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 722,
+					"ymin": 1015,
+					"xmax": 986,
+					"ymax": 1052,
+					"score": 1,
+					"ocr_text": "11-25010104000733"
+				}
+			],
+			"page": 0,
+			"request_file_id": "91217ddf-671f-4d30-ae05-d35bf7e50000",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/129673191.jpeg",
+			"id": "34a00676-0714-11eb-9739-4a47d710959c"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"message": "Success",
+			"input": "https://raw.githubusercontent.com/FuxiJia/InvoiceDatasets/master/dataset/images/vat_train/vat_0004.jpg",
+			"prediction": [
+				{
+					"label": "Seller_Address",
+					"xmin": 505,
+					"ymin": 963,
+					"xmax": 974,
+					"ymax": 1001,
+					"score": 1,
+					"ocr_text": "北京市 朝阳 区 德胜门 外 北沙滩 1 号 综合 楼 614 室"
+				},
+				{
+					"label": "Seller_Mobile_No",
+					"xmin": 984,
+					"ymin": 957,
+					"xmax": 1131,
+					"ymax": 987,
+					"score": 1,
+					"ocr_text": "010-64882249"
+				},
+				{
+					"label": "Seller_Bank_Name",
+					"xmin": 471,
+					"ymin": 1007,
+					"xmax": 883,
+					"ymax": 1042,
+					"score": 1,
+					"ocr_text": "中国 光大 银行 股份有限公司 北京 花园 路 支行"
+				},
+				{
+					"label": "Seller_bank_Account",
+					"xmin": 888,
+					"ymin": 1003,
+					"xmax": 1117,
+					"ymax": 1025,
+					"score": 1,
+					"ocr_text": "08351 01201003b4035741"
+				},
+				{
+					"label": "Seller_Vat_No",
+					"xmin": 544,
+					"ymin": 924,
+					"xmax": 902,
+					"ymax": 961,
+					"score": 1,
+					"ocr_text": "110105500300720"
+				}
+			],
+			"page": 0,
+			"request_file_id": "c23433fb-9ec3-4b05-ba6c-db602bebc28c",
+			"filepath": "uploadedfiles/e0a756b1-c440-4aa1-8350-df9717a6afe3/PredictionImages/180273585.jpeg",
+			"id": "2a10a508-0716-11eb-bd24-863496a94c1b"
+		}
+	]
+}
